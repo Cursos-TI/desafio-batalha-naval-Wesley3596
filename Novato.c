@@ -9,7 +9,7 @@ int main() {
 // (i) = -> linha
 // (j) = -> coluna
 
-    // Exemplo de preenchimento com valor 3 
+    // preenchimento com valor 3 
     tabuleiro[1][3] = 3;
     tabuleiro[2][3] = 3;
     tabuleiro[3][3] = 3;
